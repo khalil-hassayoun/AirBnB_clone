@@ -21,11 +21,11 @@ class BaseModel:
                             Date_obj = datetime.strptime(
                                 value, '%Y-%m-%dT%H:%M:%S.%f')
                             self.__dict__[key] = Date_obj
-                    else:
-                        self.__dict__[key] = value
+                else:
+                    self.__dict__[key] = value
 
     def __str__(self):
-        """"asba"""
+        """asba"""
         return "[{:s}] ({:s}) {}".format(self.__class__.__name__,
                                          self.id, self.__dict__)
 
