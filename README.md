@@ -6,7 +6,6 @@ This project is a clone to the Airbnb website.
 
 more goes heree
 
-i don't know what to write
 seems pretty complicated
 salmen do you have any clue ?
 if so help
