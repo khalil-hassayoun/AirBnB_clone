@@ -6,7 +6,6 @@ This project is a clone to the Airbnb website.
 
 more goes heree
 
-seems pretty complicated
 salmen do you have any clue ?
 if so help
 help i'm stuck call elon musk
