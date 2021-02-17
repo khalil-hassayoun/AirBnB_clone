@@ -10,7 +10,5 @@ i don't know what to write
 seems pretty complicated
 salmen do you have any clue ?
 if so help
-help i'm stuck
-call 911
-no call elon musk
+help i'm stuck call elon musk
 or fares 
